@@ -296,7 +296,7 @@ if (!game.custom.initialized){
       ship_choices = 3;
       break;
     case 6:
-      ship_choices = 5;
+      ship_choices = 6;
     break;
   }
   ship_name = JSON.parse(JSON.stringify(ships_list[tier-3]));
