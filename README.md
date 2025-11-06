@@ -1,2 +1,2 @@
-# Tier-7-Madness-v1.9.3
+# Tier-7-Madness
 Code of the now outdated rumble-based mod - Tier 7 Madness.
