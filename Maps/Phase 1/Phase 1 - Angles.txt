@@ -1,4 +1,4 @@
-  {name: "Angles", author: "Paindemic (Expanded by X-Core)", map:
+  {name: "Angles", author: "Paindemic (Remastered by X-Core)", map:
 "999999999999999999999999999999999999999999999999999999999999\n"+
 "9      999999999999999999999999999999999999999999999       9\n"+
 "9 999999                       999955559  555555 999999999 9\n"+
