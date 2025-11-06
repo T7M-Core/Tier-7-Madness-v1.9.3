@@ -6,7 +6,7 @@ Phase - 2
 
 Please, make sure to playtest the mod before posting the link to avoid balancing issues at the start
 in case some op ship gets into the selection or if you messed up the map size. If you are not sure of 
-activity - join the game with your alt so it wouldn't close or increase the game_delay time.
+activity - join the game with your alt so it wouldn't close or increase the game_delay time. 
 
 */
 
