@@ -2292,25 +2292,24 @@ var alien = {
   transparent: false,
 };
 
-var starbase2 = {
-  id: "starbase2",
-  obj: "https://raw.githubusercontent.com/StarblastFinalizer/StarblastModding/master/Starbase2.obj",
-  diffuse: "https://raw.githubusercontent.com/StarblastFinalizer/StarblastModding/master/ship_lambert_texture.png",
-  emissive:"https://raw.githubusercontent.com/StarblastFinalizer/StarblastModding/master/ship_emissive_texture.png",
-  shininess: 0,
-  emissiveColor: 0xFF0000,
-  specularColor: 0x4080FF,
-  transparent: false,
-  bump: "https://raw.githubusercontent.com/StarblastFinalizer/StarblastModding/master/ship_lambert_texture.png"
-};
-
-  game.setObject({
-    id: "starbase2",
-    type:starbase2,
-    position:{x:0,y:0,z:-85},
-    scale:{x:16,y:16,z:16},
-    rotation:{x:-3.14+((Math.random()-0.5)*0.5),y:0,z:3.14+((Math.random()-0.5)*0.5)}
-  });
+var lost_sector_aries = {
+  id: "lost_sector_aries",
+  obj: "https://starblast.io/lost_sector/LostSector_Aries_HardEdges.obj",
+  diffuse: "https://starblast.io/lost_sector/LostSector_Aries_LostSector_Aries_Diffuse.jpg",
+  bump: "https://starblast.io/lost_sector/LostSector_Aries_LostSector_Aries_Height.jpg",
+  specular: "https://starblast.io/lost_sector/LostSector_Aries_LostSector_Aries_Specular.jpg",
+  shininess: 10,
+  emissiveColor: 0,
+  specularColor: 0xFFFFFF,
+  transparent: false
+}
+game.setObject({
+  id: "lost_sector_aries",
+  type: lost_sector_aries,
+  position: {x:0, y:0, z:-125},
+  scale: {x:3, y:3, z:3},
+  rotation: {x:0, y:0, z:Math.PI}
+});
 
 /*if (map_id === 0 && modifier.laggy_objs){
   game.setObject({
