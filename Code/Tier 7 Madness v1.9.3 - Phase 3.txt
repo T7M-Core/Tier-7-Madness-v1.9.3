@@ -2,7 +2,7 @@
 
 "Tier 7 Madness v1.9.3"
 Author - X-Core (dc: deverxander / server - https://discord.gg/JVSS8na4eW). Based entirely on the Rumble code.
-Phase - 3
+Phase - 3 (Heavy / Titan classes)
 
 Please, make sure to playtest the mod before posting the link if you messed up the map size. 
 If you are not sure of activity - join the game with your alt so it wouldn't close or increase 
