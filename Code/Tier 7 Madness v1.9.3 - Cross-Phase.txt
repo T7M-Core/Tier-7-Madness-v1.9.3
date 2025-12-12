@@ -2,7 +2,7 @@
 
 "Tier 7 Madness v1.9.3"
 Author - X-Core (dc: deverxander / server - https://discord.gg/JVSS8na4eW). Based entirely on the Rumble code.
-Phase - 4 / Cross-Phase
+Phase - 4 / Cross-Phase (Mix of previous three phases + "Unstable" class ships).
 
 Please, make sure to playtest the mod before posting the link to avoid balancing issues at the start
 in case some op ship gets into the selection or if you messed up the map size. If you are not sure of 
