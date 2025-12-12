@@ -1,11 +1,12 @@
 /*
 
-"Tier 7 Madness (Y-Series Edition))"
-Author - X-Core (view credits in the official discord server)
+"Tier 7 Madness v1.9.3"
+Author - X-Core (dc: deverxander / server - https://discord.gg/JVSS8na4eW). Based entirely on the Rumble code.
+Phase - "Y-Series Edition" (only Y-Series ships and Y-Factorium map).
 
-Please, make sure to playtest the mod before posting the link to avoid balancing issues at the start
-in case some op ship gets into the selection or if you messed up the map size. If you are not sure of 
-activity - join the game with your alt so it wouldn't close or increase the game_delay time.
+Please, make sure to playtest the mod before posting the link if you messed up the map size. 
+If you are not sure of activity - join the game with your alt so it wouldn't close or increase 
+the game_delay time below.
 
 */
 
