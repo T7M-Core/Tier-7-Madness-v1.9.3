@@ -1729,7 +1729,7 @@ this.options = {
   map_size: modifier.map_size,
   starting_ship: 801,
   crystal_value: modifier.crystal_value,
-  speed_mod: 1.5,
+  speed_mod: 1.75,
   max_players: modifier.max_players,
   ships: ships,
   choose_ship: chooseships,
